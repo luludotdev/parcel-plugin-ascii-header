@@ -13,8 +13,7 @@
     "removeComments": false,
     "downlevelIteration": true,
     "outDir": "./lib",
-    "rootDir": "./src",
-    "declaration": true
+    "rootDir": "./src"
   },
   "include": [
     "src/**/*.ts"
