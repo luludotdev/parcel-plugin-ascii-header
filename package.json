@@ -1,0 +1,19 @@
+{
+  "name": "parcel-plugin-ascii-header",
+  "version": "0.1.0",
+  "description": "Adds an ASCII art header to your HTML files",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib/**/*"
+  ],
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "repository": "git@github.com:lolPants/parcel-plugin-ascii-header.git",
+  "author": "Jack Baron <jackmbaron@gmail.com> (https://www.jackbaron.com)",
+  "license": "ISC"
+}
