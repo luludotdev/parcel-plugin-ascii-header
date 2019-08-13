@@ -1,6 +1,6 @@
 {
   "name": "parcel-plugin-ascii-header",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Adds an ASCII art header to your HTML files",
   "main": "lib/index.js",
   "directories": {
