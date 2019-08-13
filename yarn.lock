@@ -18,6 +18,31 @@
     esutils "^2.0.2"
     js-tokens "^4.0.0"
 
+"@types/express-serve-static-core@*":
+  version "4.16.7"
+  resolved "https://registry.yarnpkg.com/@types/express-serve-static-core/-/express-serve-static-core-4.16.7.tgz#50ba6f8a691c08a3dd9fa7fba25ef3133d298049"
+  integrity sha512-847KvL8Q1y3TtFLRTXcVakErLJQgdpFSaq+k043xefz9raEf0C7HalpSY7OW5PyjCnY8P7bPW5t/Co9qqp+USg==
+  dependencies:
+    "@types/node" "*"
+    "@types/range-parser" "*"
+
+"@types/node@*", "@types/node@^12.7.1":
+  version "12.7.1"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-12.7.1.tgz#3b5c3a26393c19b400844ac422bd0f631a94d69d"
+  integrity sha512-aK9jxMypeSrhiYofWWBf/T7O+KwaiAHzM4sveCdWPn71lzUSMimRnKzhXDKfKwV1kWoBo2P1aGgaIYGLf9/ljw==
+
+"@types/parcel-bundler@^1.12.0":
+  version "1.12.0"
+  resolved "https://registry.yarnpkg.com/@types/parcel-bundler/-/parcel-bundler-1.12.0.tgz#ab35ec277689593b6b281d689f0d86b0249f9220"
+  integrity sha512-25U2PLViO4rmT3XO3Mf5pSddLVr+ey5AzX9PgGzIvvMbzxkzdRGvcxb55n8W7CmYEdc9QQHRJR++a7aMSkcAzQ==
+  dependencies:
+    "@types/express-serve-static-core" "*"
+
+"@types/range-parser@*":
+  version "1.2.3"
+  resolved "https://registry.yarnpkg.com/@types/range-parser/-/range-parser-1.2.3.tgz#7ee330ba7caafb98090bece86a5ee44115904c2c"
+  integrity sha512-ewFXqrQHlFsgc09MK5jP5iR7vumV/BYayNC6PgJO2LPe8vrnNFyjQjSppfEngITi0qvfKtzFvgKymGheFM9UOA==
+
 ansi-styles@^3.2.1:
   version "3.2.1"
   resolved "https://registry.yarnpkg.com/ansi-styles/-/ansi-styles-3.2.1.tgz#41fbb20243e50b12be0f04b8dedbf07520ce841d"
