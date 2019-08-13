@@ -13,6 +13,14 @@
   "engines": {
     "node": ">=8.0.0"
   },
+  "keywords": [
+    "parcel",
+    "plugin",
+    "ascii",
+    "art",
+    "header",
+    "figlet"
+  ],
   "repository": "git@github.com:lolPants/parcel-plugin-ascii-header.git",
   "author": "Jack Baron <jackmbaron@gmail.com> (https://www.jackbaron.com)",
   "license": "ISC",
