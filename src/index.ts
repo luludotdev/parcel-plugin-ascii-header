@@ -1,4 +1,4 @@
-import cosmiconfig from 'cosmiconfig'
+import { cosmiconfig } from 'cosmiconfig'
 import { readFileSync, writeFileSync } from 'fs'
 import ParcelBundler, { ParcelBundle } from 'parcel-bundler'
 import readPkg from 'read-pkg'
